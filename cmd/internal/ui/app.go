@@ -51,7 +51,7 @@ func Run() {
 }
 
 func New() *AppUI {
-	g := game.New(data.DefaultPuzzles(), 20)
+	g := game.New(data.DefaultPuzzles(), 5)
 
 	ui := &AppUI{
 		game:            g,
