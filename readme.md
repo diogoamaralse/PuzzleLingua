@@ -57,7 +57,7 @@ PuzzleLingua/
 ## Requirements
 
 ### Backend
-- Go 1.22 or newer
+- Go 1.26.X or newer
 
 ### Frontend
 - Node.js 18+ recommended
