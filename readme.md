@@ -1,6 +1,7 @@
 # PuzzleLingua
 
-PuzzleLingua is a translation game for practicing **Portuguese ↔ English** vocabulary.
+PuzzleLingua is a translation game for practicing **Portuguese ↔ English** vocabulary. 
+The project was created to teach my 7-year-old daughter some programming concepts.
 
 The project uses:
 - a **Go backend** for the API and game logic
